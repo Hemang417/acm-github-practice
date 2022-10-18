@@ -166,7 +166,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### *L*
 
 - ### *M*
-
+-[Manmeet Shetty](https://github.com/Manzer11)
 - ### *N*
 
 - ### *O*
